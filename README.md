@@ -4,11 +4,7 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 
 #セミナー開催日
-<<<<<<< HEAD
 2021年3月31日
-=======
-2021年4月1日
->>>>>>> 9b01932b37018a2a6f28c87b0f78d3503fb39acd
 
 # メンバー
 まおう
