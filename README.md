@@ -3,8 +3,12 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
+<<<<<<< HEAD
 #セミナー開催日
 <<<<<<< HEAD
+=======
+# セミナー開催日
+>>>>>>> seminar-open
 2021年3月31日
 =======
 2021年4月1日
